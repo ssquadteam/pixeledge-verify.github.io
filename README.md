@@ -1,0 +1,1 @@
+Verificator for PixelEdgeBD
